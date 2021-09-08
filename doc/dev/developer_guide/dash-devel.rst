@@ -398,6 +398,7 @@ and run the full test suite.
 
 Start all frontend E2E tests by running::
 
+  $ cd src/pybind/mgr/dashboard
   $ ./run-frontend-e2e-tests.sh
 
 Report:
